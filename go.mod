@@ -1,4 +1,4 @@
-module github.com/vieyang/ethclient
+module github.com/vieyang/newclient
 
 go 1.22
 
